@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "page_testimonials",
+  "info": {
+    "singularName": "page-testimonial",
+    "pluralName": "page-testimonials",
+    "displayName": "Page-testimonial"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "pageName": {
+      "type": "string"
+    },
+    "testimonials": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::testimonial.testimonial",
+      "mappedBy": "page_testimonial"
+    }
+  }
+}

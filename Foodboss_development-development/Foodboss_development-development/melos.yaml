@@ -1,0 +1,25 @@
+name: food_boss
+
+packages:
+  - apps/**
+  - shared/**
+  - '*'
+scripts:
+  formatting:check: melos exec -- dart format --set-exit-if-changed .
+
+  analyze: melos exec -- dart analyze --fatal-infos
+
+  # run:buyer:
+  #   run: melos exec -- flutter run lib/main.dart
+  #   select-package:
+  #     scope: 'buyer_app'
+
+  run:seller:ios:
+      run: melos exec -- flutter run lib/main.dart -d 62994EA8-8A98-4BB0-A913-929DB2DE3332
+      select-package:
+        scope: 'seller_app'
+  
+  run:seller:android:
+      run: melos exec -- flutter run lib/main.dart -d emulator-5554
+      select-package:
+        scope: 'seller_app'

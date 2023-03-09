@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "446535682716",
+    "project_id": "foodboss-daa5e",
+    "storage_bucket": "foodboss-daa5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446535682716:android:80ee172fe7e91a43977b59",
+        "android_client_info": {
+          "package_name": "com.foodboss.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446535682716-voe2i22mm72vsgrbvmrfna751ifl5epk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodboss.seller",
+            "certificate_hash": "d1054b3874a99379303a92b2a4e1606c04e27b7e"
+          }
+        },
+        {
+          "client_id": "446535682716-h5rt1n2ors3fecccd9sir6lldkllvgro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3OVv3oSN8TzCjmSmqtXGFZsMw54fIvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446535682716-h5rt1n2ors3fecccd9sir6lldkllvgro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

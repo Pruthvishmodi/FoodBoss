@@ -1,0 +1,35 @@
+{
+  "kind": "collectionType",
+  "collectionName": "page_steps",
+  "info": {
+    "singularName": "page-step",
+    "pluralName": "page-steps",
+    "displayName": "pageStep"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "page": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "background": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "steps": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::step.step",
+      "mappedBy": "page_step"
+    }
+  }
+}

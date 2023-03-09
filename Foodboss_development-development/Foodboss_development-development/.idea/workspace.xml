@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="871f78e2-b023-4908-b14e-934680561ba8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/src/main/java/io/flutter/app/FlutterMultiDexApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/src/main/kotlin/com/example/rider_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-BlackItalic(1).ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-ExtraLight(1).ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/fonts/poppins/Poppins-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/Foodboss-logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/bakery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/dairy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/drinks.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/fruits.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/healthy-food.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/intro-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/locationIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/profile_pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/sauces_and_spreads.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/shopImage0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/shopImage1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/shopImage2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/shopImage3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/assets/images/snacks.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/config/TextsizeResponsive.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/config/config.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/config/label_config.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/config/page_layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/config/theme_config.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/UI controller/MyReportScreen/reportDatePickerController.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/UI controller/deliverySettings/deliveryTimeController.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/UI controller/deliverySettings/openDaysController.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/UI controller/deliverySettings/storeTimingsController.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/UI controller/map_adress.dart/change_adress.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/business_controller/auth/login_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/business_controller/auth/otp_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/business_controller/auth/profile_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/business_controller/auth/user_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/business_controller/faq_category_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/business_controller/faq_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/business_controller/report_problem_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/business_controller/store/item_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/business_controller/store/qr_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/business_controller/store/store_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/business_controller/video_help_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/controller/privacy_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/infrastructure/auth_call.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/infrastructure/faq_call.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/infrastructure/faq_category_call.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/infrastructure/privacy_call.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/infrastructure/qr_call.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/infrastructure/report_problem_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/infrastructure/store_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/infrastructure/token_service.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/infrastructure/video_help_call.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/SupportRequestModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/auth/ProfileModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/auth/UserModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/auth/VerifyTokenModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/catagories.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/faq_category.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/faq_modal.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/help_category_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/login_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/otp_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/privacy_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/register_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/registration_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/store/catagories.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/store/items.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/store/qr.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/video_help_modal(1).dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/models/video_help_modal.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/Individual khata user details/individual_khata_user_detail.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/add_customer/add_customer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/add_orders(1).dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/add_orders.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/add_orders/add_orders.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/add_orders/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/add_orders/order_counter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/add_orders/plan_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/address_add_screen/address_add_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/buy order/add_orders.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/comming_soon.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/customer_details/customer_details.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/customer_details/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/dashboard_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/delivery_boy_details.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/delivery_boy_details/delivery_boy_details.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/edit_profile_screen/edit_profile_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/edit_profile_screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/faq_screen/faq_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/faq_screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/global_store_screen/global_store_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/global_store_screen/global_store_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/global_store_screen/mockData.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/global_store_screen/modals.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/global_store_screen/navbar.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/global_store_screen/product_list_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/global_store_screen/product_list_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/global_store_screen/side_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/global_store_screen/sidescreen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/global_store_screen/store.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/holiday_plan_screen/holiday_plan_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/home/home_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/individual reports/individual_report_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/individual_customer_details/individual_customer_details.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/individual_khata_user_detail.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/individual_report_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/intro screen/intro_screen1.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/intro_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/intro_screen1.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/khata management screen/khata_management_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/khata management screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/khata request/khata_request.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/khata request/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/khata_customer_details.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/khata_customer_details/khata_customer_details.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/khata_management_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/khata_request.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/login_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/login_screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/login_screen/login_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/my report screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/my report screen/myreport_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/my report screen/report_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/my_delivery_boy_screen/deliver_boy_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/my_delivery_boy_screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/my_delivery_boy_screen/my_delivery_boys_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/my_earnings/myEarningsScreen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/my_store/MyStoreScreen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/my_store_screen/demo_my_store.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/my_store_screen/my_store_body.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/my_store_screen/my_store_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/my_store_screen/my_store_modal.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/my_store_screen/my_store_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/myreport_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/new_delivery_boy_screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/new_delivery_boy_screen/new_delivery_boys_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/notification/NotificationScreen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/order summary pdf/order_summary_pdf.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/order summary/order_summary_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/order_summary_pdf.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/order_summary_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/orders screen/assign_rider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/orders screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/orders screen/orders.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/orders.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/otp/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/otp/otp_form.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/otp/otp_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/pdf.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/pdf_preview.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/pick_location_screen/address_part.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/pick_location_screen/map_screen_part.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/pick_location_screen/pick_location_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/plan_history_screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/plan_history_screen/previous_plan.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/privacy_screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/privacy_screen/privacy_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/product_store.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/product_store_screen/product_store_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/profile_screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/profile_screen/profile_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/profile_screen/store_profile_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/report_problem_screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/report_problem_screen/report_problem_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/return_in_progress_orders/ReturnInProgressOrdersScreen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/scan_product_screen/scan_product_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/select_delivery/select_delivery_boy.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/select_delivery_boy/select_delivery_boy.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/signup_screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/signup_screen/signup_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/splash_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/splash_screen/splash_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/store_registration_screen/deliveryTimingSection.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/store_registration_screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/store_registration_screen/openDaysSection.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/store_registration_screen/storeTimingsSection.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/store_registration_screen/store_registration_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/store_registration_screen/store_registration_screen2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/terms_and_conditions/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/terms_and_conditions/terms_and_conditions.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/video_help_screen/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/video_help_screen/video_help_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/screens/video_help_screen/video_player_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/shimmers/card_shimmer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/shimmers/global_store_shimmer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/shimmers/my_store_shimmer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/shimmers/primary_card_shimmer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/shimmers/profile_shimmer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/ui_logic/login_to_otp.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/ui_logic/sceen_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/utils/dio_util.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/utils/local_storage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/utils/requests.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/utils/states.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/utils/urls.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/BigRoundedInputField.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/BodyContainer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/CustomAppBar.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/CustomButton.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/CustomOutlineButton.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/CustomText.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/Heading.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/OpenDayChip.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/PhotoSection.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/RoundedInputField.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/RoundedSquareImageCard.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/SmallRoundedInputField.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/SubText.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/TextFieldContainer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/app_navigation_bar.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/authlayout/authlayout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/bottom_nav_bar.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/bottom_nav_text.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/button.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/button_text.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/customer details card/customer_details_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/customer_details_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/date_picker.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/demo_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/desc.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/drawer/drawer_main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/drawer/profile_for_drawer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/drawer/routes_for_drawer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/food boss button/food_boss_button.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/food boss card/food_boss_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/food boss card/list_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/food boss card/primary_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/food_boss_button.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/food_boss_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/food_boss_popup_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/form_input.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/form_text.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/individual details/individual_customer_details.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/individual report card/individual_report_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/individual_customer_details.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/individual_report_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/item_list_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/label_text.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/label_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/login_input_field.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/main_label.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/otp_form.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/pending order card/pending_order_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/pending_order_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/popup card/food_boss_popup_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/product list/product_list.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/product_list.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/text_widgets/button_text.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/text_widgets/desc.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/text_widgets/distructive_text.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/text_widgets/heading_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/text_widgets/label_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/text_widgets/main_label.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/text_widgets/sub_heading_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/text_widgets/title_subtitle.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/text_widgets/title_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/title.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/view customer details/layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/view customer details/view_customer_detail_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/lib/widgets/view_customer_detail_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/rider_app/windows/runner/win32_window.h" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26mMsHA4677WRlfagafQ0tHdno9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="871f78e2-b023-4908-b14e-934680561ba8" name="Default Changelist" comment="" />
+      <created>1648024512261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648024512261</updated>
+    </task>
+    <servers />
+  </component>
+</project>

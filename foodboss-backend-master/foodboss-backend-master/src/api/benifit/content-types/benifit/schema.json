@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "benifits",
+  "info": {
+    "singularName": "benifit",
+    "pluralName": "benifits",
+    "displayName": "benifit"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "title",
+      "required": true
+    },
+    "description": {
+      "type": "text",
+      "default": "description",
+      "required": true
+    },
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "page_benifit": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::page-benifit.page-benifit",
+      "inversedBy": "benifits"
+    }
+  }
+}

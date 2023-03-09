@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "page_benifits",
+  "info": {
+    "singularName": "page-benifit",
+    "pluralName": "page-benifits",
+    "displayName": "pageBenifit"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "default": "seller",
+      "required": true
+    },
+    "benifits": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::benifit.benifit",
+      "mappedBy": "page_benifit"
+    }
+  }
+}
